@@ -13,3 +13,10 @@ To run this project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/my-portfolio.git`
 2. Open the project in your browser or IDE.
 3. To make changes, edit the HTML/CSS files and view the changes in your browser.
+
+## Description:
+- Added a new text file `Welcome.txt`.
+- This file a greeting text.
+
+## Testing:
+- No functional code changes, just added a text file.
